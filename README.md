@@ -4,8 +4,9 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 ### App working example  
 [Video Link App Working]()
 ### App Screen Shots
-![Screen Shot 1]()   
-![Screen Shot 2]()
+![Screen Shot 1](Screenshot_1.png)
+![Screen Shot 2](Screenshot_2.png)
+![Screen Shot 2](Screenshot_3.png)
 ## Table of contents
 - [Description](#Description)
 - [App Working Example](#Description)
