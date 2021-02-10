@@ -1,0 +1,25 @@
+{
+  "name": "employeetrackerhomework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShowlandProductions/DomosEmployeeTracker"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShowlandProductions/DomosEmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/ShowlandProductions/DomosEmployeeTracker/blob/main/README.md",
+  "dependencies": {
+    "console-table-printer": "^1.6.3",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
